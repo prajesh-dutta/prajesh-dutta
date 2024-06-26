@@ -20,10 +20,14 @@ Always learning, always improving
   </font>
 </p>
 <p align="center">
-<img src="https://github.com/prajesh-dutta/prajesh-dutta/assets/95134037/3820f1d2-731e-4e37-9bda-693054a71d3f" alt="Alt text" width="300" height="250">
+<img src="https://github.com/prajesh-dutta/prajesh-dutta/assets/95134037/3820f1d2-731e-4e37-9bda-693054a71d3f" alt="Alt text" width="320" height="290">
 </p>
 Securing tomorrow's tech, today. Want to team up?
-
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+  <h3 style="font-family: 'Trebuchet MS', sans-serif; color: #333; margin-bottom: 10px;">
+    <strong>Technical Strengths:</strong>
+  </h3>
+</div>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
