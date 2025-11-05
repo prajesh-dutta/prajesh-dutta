@@ -6,7 +6,7 @@
 |/__\|/__\|/__\|/__\|/__\|       |/__\|/__\|/__\|/__\|/__\|/__\|
 
 
-┬─[prajesh at extdiction in ~/a/t/README.md]
+┬─[prajesh at github in ~/a/t/README.md]
 ╰──> λ cat .whoami
 I DUMP MY /home HERE!
 for my /etc:            prajesh.tech
