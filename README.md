@@ -9,7 +9,7 @@
 ┬─[prajesh at github in ~/a/t/README.md]
 ╰──> λ cat .whoami
 I DUMP MY /home HERE!
-for my /etc:            prajesh.tech
-for my /var:            prajesh.tech/blogs.html
+for my /etc:            prajes.me
+for my /var:            cli.prajes.me
 
 ```
